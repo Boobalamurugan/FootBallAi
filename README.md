@@ -1,6 +1,6 @@
-# footballAI
+# FootBallAi
 
-**footballAI** is an AI-driven football analysis system designed for player detection, tracking, and classification in real-time video streams. This project uses YOLO (You Only Look Once) for object detection, KMeans for team color assignment, and advanced techniques for player tracking and keypoint detection. It aims to enhance football analytics by automating tasks such as player detection, player tracking, and ball assignment.
+**FootBallAi** is an AI-driven football analysis system designed for player detection, tracking, and classification in real-time video streams. This project uses YOLO (You Only Look Once) for object detection, KMeans for team color assignment, and advanced techniques for player tracking and keypoint detection. It aims to enhance football analytics by automating tasks such as player detection, player tracking, and ball assignment.
 
 ## Key Features
 
